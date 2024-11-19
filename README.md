@@ -41,9 +41,9 @@ A estrutura de pastas e arquivos é organizada para facilitar a manutenção e e
 
    ```bash
     ├── tests/
-    │   ├── login.spec.js            # Testes relacionados ao login
-    │   ├── cart.spec.js             # Testes de adição, remoção de produtos no carrinho e checkout
-    ├── playwright.config.js         # Configurações do Playwright
+    │   ├── login.spec.ts            # Testes relacionados ao login
+    │   ├── cart.spec.ts             # Testes de adição, remoção de produtos no carrinho e checkout
+    ├── playwright.config.ts         # Configurações do Playwright
     ├── README.md                    # Documentação do projeto
    ```
 ## Instalação e Execução
