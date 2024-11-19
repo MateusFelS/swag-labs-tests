@@ -43,7 +43,7 @@ A estrutura de pastas e arquivos é organizada para facilitar a manutenção e e
     ├── tests/
     │   ├── login.spec.ts            # Testes relacionados ao login
     │   ├── cart.spec.ts             # Testes de adição e remoção de produtos no carrinho
-    │   ├── checkout.spec.js         # Testes do fluxo de checkout
+    │   ├── checkout.spec.ts         # Testes do fluxo de checkout
     ├── playwright.config.ts         # Configurações do Playwright
     ├── README.md                    # Documentação do projeto
    ```
